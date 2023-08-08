@@ -1,6 +1,6 @@
 
 ![image](https://github.com/ZeynepGumus0/ZeynepGumus0/assets/110032203/aebca2d6-8590-4ddd-84e2-5cda9b1e02e4)
-### Hi there 👋
+### Hi I'M ZEYNEP 👋
 
 
 
