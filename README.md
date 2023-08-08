@@ -5,11 +5,13 @@
 
 
 
-- 🔭 I’m currently working on WEB
-- 🌱 I’m currently learning .NET ,MVC 
+- 🔭 I’m currently working on WEB , C#
+- ✍ I'm currently developing WEB SİTE,
+- 🌱 I’m currently learning .NET ,MVC
+- 🌟 I'm very tech savvy
 - 💬 Ask me about C# ,.NET, MVC
 
-links: 
+  🔗 links: 
 https://www.linkedin.com/in/zeynep-g%C3%BCm%C3%BC%C5%9F-39055a19a/
 
 
